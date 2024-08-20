@@ -1,5 +1,3 @@
 ---
-title: Welcome to my blog
+title: Can Bolukbas
 ---
-
-Doing some serious stuff...
