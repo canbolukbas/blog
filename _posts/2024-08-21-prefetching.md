@@ -18,7 +18,7 @@ for outer_item in outer_list:
         process_data(data)
 ```
 
-Identifying and modeling this problem in a simpler way helped me see the problem. I wrote the pseudocode of it and figured that prefetching the db table before iterating over this 2D list would only result with a single db call.
+Modeling the problem in a simpler way helped me identify the problem. I wrote the pseudocode of it and figured that prefetching the db table before iterating over this 2D list would only result with a single db call.
 
 ```
 cached_data = prefetch_database_data()
