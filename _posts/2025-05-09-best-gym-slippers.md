@@ -11,5 +11,5 @@ Do you shower at gym? Do you carry your wet slippers all day? Noticed their smel
 
 I bought my slippers from Decathlon. They are the best 9€ investment I've ever had. You can see it below: 
 
-https://contents.mediadecathlon.com/p1149586/k$e8b6d23ddeb3b2b06b313691cfdc712b/sq/erkek-havuz-terligi-gri-slap-100-basic.jpg
+![My gym slippers](https://contents.mediadecathlon.com/p1149586/k$e8b6d23ddeb3b2b06b313691cfdc712b/sq/erkek-havuz-terligi-gri-slap-100-basic.jpg)
 
