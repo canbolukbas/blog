@@ -10,4 +10,4 @@ I came to notice this pattern recently. I struggle to read a SQL file from termi
 
 It became a source of disappointment in my abilities as a software engineer.
 
-This post is written after reading the article: https://www.pearlleff.com/in-praise-of-memorization
+This post is written after reading the article: [https://www.pearlleff.com/in-praise-of-memorization](https://www.pearlleff.com/in-praise-of-memorization)
