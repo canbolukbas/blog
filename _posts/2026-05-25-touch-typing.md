@@ -3,9 +3,9 @@ title: "Transitioning from Turkish Keyboard to English Keyboard"
 date: 2026-05-25
 ---
 
-TBH this whole journey started with the realisation that I do not code enough. LLMs code for us, we develop features at unprecented rate and we have a lot of reviewing to do. I guess... I wanted to code so bad... And I can't code at the speed that I wanted.
+TBH this whole journey started with the realisation that I do not code enough. LLMs code for us, we develop features at unprecented rate and we have a lot of reviewing to do. I guess... I wanted to code so bad... And I can't code at the speed that I wanted. It was due to my limited knowledge about the libraries and the technology that I've been using. Says not a single developer. So I decided to blame my Turkish keyboard for it.
 
-First issue was the fact that I was using a Turkish keyboard. Turkish keyboard shares all the letters that English keyboard (e.g. QWERTY) has. However it includes additional 6 letters `ö ş ğ ı ç ü`. As a result, the characters at the given order, `, ; [ ' . ]`, are put into places where I am only allowed to use with Shift ⇧ button pressed. These are the characters that are regularly used in coding. Hence it becomes very inconvenient to code sometimes and I've found myself copy pasting characters time to time.
+Turkish keyboard shares all the letters that English keyboard (e.g. QWERTY) has. However it includes additional 6 letters `ö ş ğ ı ç ü`. As a result, the characters at the given order, `, ; [ ' . ]`, are put into places where I am only allowed to use with Shift ⇧ button pressed. These are the characters that are regularly used in coding. Hence it becomes very inconvenient to code sometimes and I've found myself copy pasting characters time to time.
 
 The other disadvantage was to using IDE shortcurts. IDEs provide default shortcuts but they rarely work with Turkish layout. I usually had a spider sense what that shortcut might translate into Turkish layout. If that sense was not accurate, I was typing all alternatives manually to discover. Basically brute-forcing my way into a shortcut.
 
